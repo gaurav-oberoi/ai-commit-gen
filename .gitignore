@@ -1,0 +1,14 @@
+# Build output
+/ai-commit-gen
+/dist/
+*.exe
+
+# Go
+*.test
+*.out
+coverage.txt
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
